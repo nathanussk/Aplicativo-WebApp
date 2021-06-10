@@ -18,8 +18,8 @@ http://www.mediafire.com/file/qc54mvyo27c96q4/iMusic.rar/file
 
 # Entre no repositório e execute os seguintes comandos.
 
-# Instalar dependências com,
-yarn install
+# Instalar permissao na pasta MANIFESTS no arquivo ANDROIDMANIFESTS.xml
+<uses-permission android:name="android.permission.INTERNET"></uses-permission>
 
 # Execute o aplicativo com,
 react-native run-ios ou run-android
