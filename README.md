@@ -32,7 +32,7 @@ https://www.mediafire.com/file/u7p9mpdzca3jd4y/WebApp.rar/file
 </h1>
 
 
-### Resultado em Fotos:
+### Resultado em Video:
 
 <h1 align="center">
 
