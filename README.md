@@ -36,6 +36,6 @@ https://www.mediafire.com/file/u7p9mpdzca3jd4y/WebApp.rar/file
 
 <h1 align="center">
 
-![app gif](https://user-images.githubusercontent.com/53570115/121594734-d7e17b00-ca13-11eb-93b0-d3337e822064.gif)
+https://user-images.githubusercontent.com/53570115/121595003-2ee75000-ca14-11eb-927a-46ebdb6ec557.mp4
 
 </h1>
