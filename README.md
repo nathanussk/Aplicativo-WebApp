@@ -29,7 +29,7 @@ react-native run-ios ou run-android
 
 <h1 align="center">
 
-[figma](https://user-images.githubusercontent.com/53570115/121588383-3b67aa80-ca0c-11eb-8b6c-dcc5f4fcc4b8.png)
+<img src="https://user-images.githubusercontent.com/53570115/121588628-85509080-ca0c-11eb-9076-ef281d6ae0c7.png"
     height="400">!
 
 </h1>
