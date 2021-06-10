@@ -14,15 +14,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Baixe o Aplicativo em,
-http://www.mediafire.com/file/qc54mvyo27c96q4/iMusic.rar/file
+https://www.mediafire.com/file/u7p9mpdzca3jd4y/WebApp.rar/file
 
-# Entre no repositório e execute os seguintes comandos.
-
-# Instalar permissao na pasta MANIFESTS no arquivo ANDROIDMANIFESTS.xml
+# Instale a permissao na pasta MANIFESTS no arquivo ANDROIDMANIFESTS.xml
 <uses-permission android:name="android.permission.INTERNET"></uses-permission>
-
-# Execute o aplicativo com,
-react-native run-ios ou run-android
 
 ```
 ### Resultado do Design:
