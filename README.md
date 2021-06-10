@@ -36,7 +36,7 @@ https://www.mediafire.com/file/u7p9mpdzca3jd4y/WebApp.rar/file
 
 <h1 align="center">
 
-<video src=https://user-images.githubusercontent.com/53570115/121594380-630e4100-ca13-11eb-9dc6-1bb076126307.mp4
+![app gif](https://user-images.githubusercontent.com/53570115/121594734-d7e17b00-ca13-11eb-93b0-d3337e822064.gif)
     height="400">
 
 
