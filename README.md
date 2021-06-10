@@ -6,13 +6,9 @@
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [ReactNative](https://reactjs.org/)
-- [API Itunes](https://developer.apple.com/documentation/applemusicapi)
-- [API Github](https://developer.github.com/v3/)
-- [React Navigation](https://reactnavigation.org/)
-- [Axios](https://github.com/axios/axios)
-- [styled-components](https://www.styled-components.com/)
-- [VS Code](https://code.visualstudio.com/)
+- [Java](https://www.java.com/pt-BR/)
+- [Android Studio](https://developer.android.com/studio)
+- [Figma](https://www.figma.com/)
 
 ## :information_source: Como usar
 
