@@ -13,11 +13,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## :information_source: Como usar
 
 ```bash
-# Baixe o Aplicativo em,
+#Parte 1: Baixe o Aplicativo em,
 https://www.mediafire.com/file/u7p9mpdzca3jd4y/WebApp.rar/file
 
-# Instale a permissao na pasta MANIFESTS no arquivo ANDROIDMANIFESTS.xml
+#Parte 2: Instale a permissao na pasta MANIFESTS no arquivo ANDROIDMANIFESTS.xml
 <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+#Parte 3: Depois so executar no emulador ou no seu celular!
 
 ```
 ### Resultado do Design:
