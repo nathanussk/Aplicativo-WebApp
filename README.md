@@ -36,17 +36,8 @@ https://www.mediafire.com/file/u7p9mpdzca3jd4y/WebApp.rar/file
 
 <h1 align="center">
 
-<img src="https://user-images.githubusercontent.com/53570115/79695919-e721ca00-824f-11ea-8ebb-81341f4716e2.png"
+<a href="https://www.loom.com/share/e3e1e947029a4c87a81def7a90ec64fe"> <p>Private Video - Watch Video</p> <img style="max-width:300px;" src="https://cdn.loom.com/placeholders/private-video.gif"> </a>
     height="400">
-<img src="https://user-images.githubusercontent.com/53570115/79695973-48e23400-8250-11ea-8343-e5a0c85b9e93.png"
-    height="400">
-<img src="https://user-images.githubusercontent.com/53570115/79695997-63b4a880-8250-11ea-9473-42ebd57f1c1a.png"
-    height="400">
-<img src="https://user-images.githubusercontent.com/53570115/79696024-834bd100-8250-11ea-9195-c5a9cdf82dc9.png"
-    height="400">
-<img src="https://user-images.githubusercontent.com/53570115/79696054-a4acbd00-8250-11ea-9e1e-56b1b9a33048.png"
-    height="400">
-<img src="https://user-images.githubusercontent.com/53570115/79696063-b5f5c980-8250-11ea-962e-38b4f03876f6.png"
-    height="400">
+
 
 </h1>
