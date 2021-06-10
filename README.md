@@ -36,7 +36,7 @@ https://www.mediafire.com/file/u7p9mpdzca3jd4y/WebApp.rar/file
 
 <h1 align="center">
 
-<a href="https://www.loom.com/share/e3e1e947029a4c87a81def7a90ec64fe"> <p>Private Video - Watch Video</p> <img style="max-width:300px;" src="https://cdn.loom.com/placeholders/private-video.gif"> </a>
+href="https://www.loom.com/share/e3e1e947029a4c87a81def7a90ec64fe"
     height="400">
 
 
