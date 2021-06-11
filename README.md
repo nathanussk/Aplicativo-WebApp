@@ -10,7 +10,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Android Studio](https://developer.android.com/studio)
 - [Figma](https://www.figma.com/)
 
-## :information_source: Como usar
+## :information_source: Instalação
 
 ```bash
 #Parte 1: Clone o repositório para sua máquina local e importe para o Android Studio,
