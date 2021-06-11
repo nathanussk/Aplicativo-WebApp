@@ -13,8 +13,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## :information_source: Como usar
 
 ```bash
-#Parte 1: Baixe o Aplicativo em,
-https://www.mediafire.com/file/u7p9mpdzca3jd4y/WebApp.rar/file
+#Parte 1: Clone o repositório para sua máquina local e importe para o Android Studio,
+$ git clone https://github.com/nathanussk/WebApp.git
 
 #Parte 2: Instale a permissao na pasta MANIFESTS no arquivo ANDROIDMANIFESTS.xml
 <uses-permission android:name="android.permission.INTERNET"></uses-permission>
