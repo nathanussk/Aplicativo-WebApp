@@ -14,7 +14,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 #Parte 1: Clone o repositório para sua máquina local e importe para o Android Studio,
-$ git clone https://github.com/nathanussk/WebApp.git
+$ git clone https://github.com/nathanussk/Aplicativo-WebApp.git
 
 #Parte 2: Instale a permissao na pasta MANIFESTS no arquivo ANDROIDMANIFESTS.xml
 <uses-permission android:name="android.permission.INTERNET"></uses-permission>
